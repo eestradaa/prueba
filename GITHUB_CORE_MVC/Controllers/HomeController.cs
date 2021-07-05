@@ -35,12 +35,22 @@ namespace GITHUB_CORE_MVC.Controllers
         }
 
         // eea: para probar el GIT
-        private void MetodoBorrme() { 
+        private void MetodoBorrame() { 
             int ii = 0;
             ii = 1;
         
         
         }
+
+
+        private void MetodoBorrame2()
+        {
+            int ii = 0;
+            ii = 1;
+
+
+        }
+
 
 
     }
