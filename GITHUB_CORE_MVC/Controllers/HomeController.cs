@@ -33,5 +33,15 @@ namespace GITHUB_CORE_MVC.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        // eea: para probar el GIT
+        private void MetodoBorrme() { 
+            int ii = 0;
+            ii = 1;
+        
+        
+        }
+
+
     }
 }
