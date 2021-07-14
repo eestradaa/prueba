@@ -51,6 +51,24 @@ namespace GITHUB_CORE_MVC.Controllers
 
         }
 
+        private void MetodoBorrame3()
+        {
+            int ii = 0;
+            string cadena = "";
+            ii = 1;
+
+            if (ii == 1)
+            {
+                cadena = "xxxxx";
+            }
+            else
+            {
+                cadena = "yyyyyyyyy";
+
+            }
+
+
+        }
 
 
     }
